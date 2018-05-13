@@ -1,0 +1,12 @@
+*~
+.classpath
+.project
+out
+target
+.settings
+/.idea
+
+*.iml
+logs*
+
+*.~vsdx
